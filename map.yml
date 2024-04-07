@@ -1,0 +1,3 @@
+map_name: fourty_thousand
+games:
+- {game_name: Forty_thousand_beta, file_name: fourty_thousand_beta.xml}
